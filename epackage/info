@@ -1,0 +1,40 @@
+Package: rst-mode
+Section: languages
+License: GPL-2+
+Depends: emacs (>= 21)
+Status: core-emacs
+Compat:
+Maintainer:
+Email: Martin Blais <blais@furius.ca>,
+ Stefan Merten <smerten@oekonux.de>,
+ David Goodger <goodger@python.org>
+Bugs:
+Vcs-Type: http
+Vcs-Url: http://docutils.sourceforge.net/tools/editors/emacs/rst.el
+Vcs-Args:
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage: http://docutils.sourceforge.net/docs/user/emacs.html
+Wiki: http://www.emacswiki.org/emacs/reStructuredText
+Description: mode for viewing and editing reStructuredText-documents
+ This package provides major mode rst-mode, which supports documents
+ marked up using the reStructuredText format. Support includes font
+ locking as well as some convenience functions for editing. It does
+ this by defining a Emacs major mode: rst-mode (ReST). This mode is
+ derived from text-mode (and inherits much of it). This package also
+ contains:
+ .
+ - Functions to automatically adjust and cycle the section underline
+   decorations;
+ - A mode that displays the table of contents and allows you to jump anywhere
+   from it;
+ - Functions to insert and automatically update a TOC in your source
+   document;
+ - Font-lock highlighting of notable reStructuredText structures;
+ - Some other convenience functions.
+ .
+ For more information about reStructuredText, see
+ http://docutils.sourceforge.net/rst.html
+ .
+ This mode was included in Emacs 23.1

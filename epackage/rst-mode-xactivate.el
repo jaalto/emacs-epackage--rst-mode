@@ -1,6 +1,6 @@
 (autoload 'rst-mode "markdown-mode"
   "Major mode for restructured text" t)
 
-(add-to-list 'auto-mode-alist '("\\.rst$" . rst-mode))
+(add-to-list 'auto-mode-alist '("\\.re?st\\'" . rst-mode))
 
-(provide 'rst-mode-activate)
+(provide 'rst-mode-xactivate)

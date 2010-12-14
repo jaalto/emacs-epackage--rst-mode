@@ -2,7 +2,7 @@ Package: rst-mode
 Section: languages
 License: GPL-2+
 Depends: emacs (>= 21)
-Status: core-emacs
+Status: core-emacs-23.1
 Compat:
 Maintainer:
 Email: Martin Blais <blais@furius.ca>,
@@ -37,4 +37,4 @@ Description: mode for viewing and editing reStructuredText-documents
  For more information about reStructuredText, see
  http://docutils.sourceforge.net/rst.html
  .
- This mode was included in Emacs 23.1
+ This mode was included in Emacs 23.1 in file rst.el

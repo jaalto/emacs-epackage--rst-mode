@@ -1,1 +1,1 @@
-(byte-compile-file (locate-library "rst-mode.el"))
+(byte-compile-file (locate-library "rst.el"))

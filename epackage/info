@@ -4,11 +4,12 @@ License: GPL-2+
 Depends: emacs (>= 21)
 Status: core-emacs-23.1
 Compat:
-Maintainer:
-Email: Martin Blais <blais@furius.ca>,
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Martin Blais <blais@furius.ca>,
  Stefan Merten <smerten@oekonux.de>,
  David Goodger <goodger@python.org>
-Bugs:
+Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://docutils.sourceforge.net/tools/editors/emacs/rst.el
 Vcs-Args:

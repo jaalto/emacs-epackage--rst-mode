@@ -19,7 +19,7 @@ Vcs-Password:
 Homepage: http://docutils.sourceforge.net/docs/user/emacs.html
 Wiki: http://www.emacswiki.org/emacs/reStructuredText
 Commentary: rst.el
-Description: mode for viewing and editing reStructuredText-documents
+Description: mode for editing *.rst reStructuredText markup files
  This package provides major mode rst-mode, which supports documents
  marked up using the reStructuredText format. Support includes font
  locking as well as some convenience functions for editing. It does

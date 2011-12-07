@@ -3,4 +3,4 @@
 
 (add-to-list 'auto-mode-alist '("\\.re?st\\'" . rst-mode))
 
-(provide 'rst-mode-xactivate)
+(provide 'rst-mode-epkg-xactivate)

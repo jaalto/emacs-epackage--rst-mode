@@ -4,4 +4,4 @@
 (if (string< (emacs-version) "23")	;included in core-emacs
     (add-to-list 'auto-mode-alist '("\\.re?st\\'" . rst-mode)))
 
-(provide 'rst-mode-install)
+(provide 'rst-mode-epkg-install)

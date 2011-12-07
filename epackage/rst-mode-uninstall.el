@@ -3,4 +3,4 @@
 	  (delete '("\\.re?st\\'" . rst-mode)
 		  auto-mode-alist)))
 
-(provide 'rst-mode-uninstall)
+(provide 'rst-mode-epkg-uninstall)

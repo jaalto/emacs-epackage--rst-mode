@@ -1,7 +1,7 @@
 
-;;;### (autoloads (rst-minor-mode rst-mode) "rst" "../rst.el" (19582
-;;;;;;  31475))
-;;; Generated autoloads from ../rst.el
+;;;### (autoloads (rst-minor-mode rst-mode) "../rst" "rst.el"
+;;;;;;  (20185 25716))
+;;; Generated autoloads from rst.el
  (add-to-list 'auto-mode-alist (purecopy '("\\.re?st\\'" . rst-mode)))
 
 (autoload 'rst-mode "rst" "\

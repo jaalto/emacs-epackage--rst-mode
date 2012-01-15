@@ -80,4 +80,4 @@
 (autoload 'rst-repeat-last-character            "rst" "" t)
 (autoload 'rst-portable-mark-active-p           "rst" "" nil)
 
-(provide 'rst-mode-epkg-autoloads)
+(provide 'rst-mode-epackage-autoloads)
